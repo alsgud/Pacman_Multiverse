@@ -1,0 +1,31 @@
+[Orion] Location: 9-5
+[PacMan] Location: 11-7. Score: 0. Pills: 0
+[Troll] Location: 11-5
+[Orion] Location: 8-5
+[PacMan] Location: 11-7. Score: 0. Pills: 0
+[Troll] Location: 10-5
+[Orion] Location: 9-5
+[PacMan] Location: 11-7. Score: 0. Pills: 0
+[Troll] Location: 9-5
+[Orion] Location: 9-4
+[PacMan] Location: 11-7. Score: 0. Pills: 0
+[Troll] Location: 8-5
+[Orion] Location: 10-4
+[PacMan] Location: 11-7. Score: 0. Pills: 0
+[Troll] Location: 9-5
+[Orion] Location: 10-5
+[PacMan] Location: 11-7. Score: 0. Pills: 0
+[Troll] Location: 10-5
+[PacMan] Location: 7-7. Eat Pill/Item: pills
+[Orion] Location: 9-5
+[PacMan] Location: 12-7. Score: 1. Pills: 1
+[Troll] Location: 11-5
+[PacMan] Location: 7-7. Eat Pill/Item: pills
+[Orion] Location: 9-4
+[PacMan] Location: 13-7. Score: 2. Pills: 2
+[Troll] Location: 10-5
+[PacMan] Location: 8-8. Eat Pill/Item: pills
+[Orion] Location: 9-3
+[PacMan] Location: 13-8. Score: 3. Pills: 3
+[Troll] Location: 10-4
+GAME OVER
